@@ -64,5 +64,17 @@ export   const data = [
     start: 16,
     end: 22,
     type: 'B'
-  }
+  },
+  {
+    name: 'second',
+    start: 26,
+    end: 30,
+    type: 'B'
+  },
+  {
+    name: 'first',
+    start: 0,
+    end: 3,
+    type: 'C'
+  },
 ]
